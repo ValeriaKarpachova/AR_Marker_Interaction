@@ -5,7 +5,7 @@
   Кожен маркер виконує окрему дію: відтворює відео, відкриває Spotify або завершує роботу програми.
 </p>
 <p>
-  Цей проєкт був розроблений та адаптований <a href="https://github.com/codegiovanni/Augmentation_Aruco_marker.git" target="_blank">Augmentation_Aruco_marker</a> під демонстрацію інтерактивної AR-взаємодії з маркерами.
+  Цей проєкт був розроблений та адаптований на основі <a href="https://github.com/codegiovanni/Augmentation_Aruco_marker.git" target="_blank">Augmentation_Aruco_marker</a> під демонстрацію інтерактивної AR-взаємодії з маркерами.
 </p>
 <div align="center">
   <img src="result.gif" alt="AR Marker Interaction"/>
@@ -17,9 +17,9 @@
   </ul>
   <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="img1.png" alt="Marker 1" style="width: 30%;">
-  <img src="img2.png" alt="Marker 2" style="width: 30%;">
-  <img src="img3.png" alt="Marker 3" style="width: 30%;">
+  <img src="PythonProject4/Online_ArUco_markers_generator.png" alt="Marker 1" style="width: 30%;">
+  <img src="PythonProject4/Online_ArUco_markers_generator13.png" alt="Marker 2" style="width: 30%;">
+  <img src="PythonProject4/Online_ArUco_markers_generator42.png" alt="Marker 3" style="width: 30%;">
 </div>
 
   </div>
