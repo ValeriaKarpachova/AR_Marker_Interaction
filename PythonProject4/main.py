@@ -76,7 +76,7 @@ while True:
                 cap.release()
                 cv2.destroyAllWindows()
                 print("Маркер завершення виявлено. Програма завершена.")
-                exit()  
+                exit()
 
     cv2.imshow('input', frame)
 
