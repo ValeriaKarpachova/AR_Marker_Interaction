@@ -1,7 +1,7 @@
 <section style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; line-height:1.5; color:#111;">
   <h1 style="margin-bottom:0.1em;">AR Marker Interaction</h1>
   <p style="margin-top:0.2em; color:#444;">
-  Програма на Python, що використовує яка використовує <b>OpenCV</b> і <b>ArUco</b> для створення ефектів доповненої реальності.
+  Програма на Python, що використовує <b>OpenCV</b> і <b>ArUco</b> для створення ефектів доповненої реальності.
   Кожен маркер виконує окрему дію: відтворює відео, відкриває Spotify або завершує роботу програми.
 </p>
 <p>
